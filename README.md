@@ -1,2 +1,2 @@
-This is a simple template for the class blog. 
+Myblog is hosted at https://ossd-s24.github.io/joannakl-weekly/ 
 
