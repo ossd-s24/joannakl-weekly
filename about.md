@@ -15,4 +15,9 @@ _Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium dolo
 - [IBM's version of _What is open source software_](https://www.ibm.com/topics/open-source)
 
 
-<a title="Fritzflohrreynolds, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lobelia_cardinalis_-_Red_Cardinal_Flower.jpg"><img width="256" alt="Lobelia cardinalis - Red Cardinal Flower" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lobelia_cardinalis_-_Red_Cardinal_Flower.jpg/256px-Lobelia_cardinalis_-_Red_Cardinal_Flower.jpg"></a>
+<figure>
+  <a title="Fritzflohrreynolds, CC BY-SA 3.0 &lt;https://creativecommons.org/licenses/by-sa/3.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Lobelia_cardinalis_-_Red_Cardinal_Flower.jpg"><img width="256" alt="Lobelia cardinalis - Red Cardinal Flower" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Lobelia_cardinalis_-_Red_Cardinal_Flower.jpg/256px-Lobelia_cardinalis_-_Red_Cardinal_Flower.jpg"></a>
+
+
+  <figcaption>Lobelia cardinalis - Red Cardinal Flower by Fritzflohrreynolds, CC BY-SA 3.0</figcaption>
+</figure> 
